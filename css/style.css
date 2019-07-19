@@ -1,0 +1,105 @@
+*{
+	margin: 0;
+	box-sizing: border-box;
+}
+.head{
+	width:auto;
+	background-color: #333;
+	text-align: center;
+    
+	
+	
+}
+.head .one{
+	width: 33.33%;
+	display: inline-block;
+	padding: 15px 15px;
+	
+
+}
+
+.one span{
+	font-family:raleway;
+	font-size: 24px;
+	font-weight: 600;
+	color:seagreen;
+
+}
+.one p {
+	font-family:raleway;
+	font-size: 12px;
+	font-weight: 400;
+	color:white;
+
+}
+
+.on{
+	text-align: center;
+	padding: 40px
+
+}
+
+.on span{font-family:raleway;
+	font-size: 24px;
+	font-weight: 700;
+	color:#333
+}
+	
+
+.on span:hover{
+	background-color:seagreen;
+	color:white
+}
+
+.content{ width:auto;
+	float: left;
+
+}
+.content .content-box{
+	width: 33.33%;
+	float: left;
+	padding: 10px 5px
+
+}
+.content .content-box img{ max-width: 100%;
+	max-height: 100%;
+	
+}
+.content .content-box img:hover{
+	opacity: 0.5
+}
+.content .content-box h3{
+	color:seagreen;
+	font-family: raleway;
+font-weight: 700;
+	font-size: 14px
+
+}
+
+.two{
+width: 100%;
+background-color: #282828 ;
+overflow: hidden;
+padding: 45px 10px
+}
+.two .one{
+width: 33.33%;
+float: left;
+text-align: center;
+padding: 5px 10px
+}
+.two .one h1 {
+	font-size:24px;
+ 	font-family: raleway;
+ 	font-weight: 700;
+ 	color:seagreen;
+padding : 5px 10px;
+}
+.one p {
+	font-family: raleway;
+	font-size: 10px;
+	font-weight: 300;
+	color: white;
+	padding: 5px 0;
+	font-height: 20px;
+	}
